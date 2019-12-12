@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Projects" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="Calculator">E:/API Testing/LPB11/Calculator-soapui-project.xml</con:project>
+  <con:project name="E_Commerce">C:/Users/manzoorm/Desktop/XML Files/resources/resources/E-Commerce-soapui-project.xml</con:project>
+  <con:project name="E_Commerce MOcking">C:/Users/manzoorm/Desktop/XML Files/resources/resources/E-Commerce-MOcking-soapui-project.xml</con:project>
+  <con:project name="E_Commerce_MockDemo">E:/API Testing/LPB11/E-Commerce-MockDemo-soapui-project.xml</con:project>
+  <con:project name="E_Commerce_EnhancedSerives">E:/API Testing/LPB11/E-Commerce-EnhancedSerives-soapui-project.xml</con:project>
+  <con:project name="REST Project 1">E:/API Testing/LPB11/REST-Project-1-soapui-project.xml</con:project>
+  <con:project name="ECommerce_Rest_Project">E:/API Testing/LPB11/ECommerce-Rest-Project-soapui-project.xml</con:project>
+  <con:project name="LPB11_Project">E:/API Testing/LPB11/LPB11-Project-soapui-project.xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
